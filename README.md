@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">A graphic designer and a newbie but persuasive frontend developer from Aveiro,Portugal</h3>
+<h3 align="center">A graphic designer and a newbie but persuasive frontend developer from Aveiro, Portugal</h3>
 
-- 🔭 I’m currently working as a **freelancer**
+- 🔭 I’m currently stydying web development and working as a graphic designer **freelancer**
 
 - 🌱 I’m currently learning **ReactJS, NextJS, TypeScript, StyledComponents, Redux**
 
 - 🤝 I’m looking for a new chapter in my life. **On Front-End Web Development.**
 
-- 👨‍💻 All of my projects are available at [www.andrelourenco.pt](www.andrelourenco.pt)
+- 👨‍💻 All of my projects are available at www.andrelourenco.pt
 
 - 💬 Ask me about **html, css, graphic design, photography, video... and football**
 
 - 📫 How to reach me **andre.cura.lourenco@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/andrelourenco_digitalcv](bit.ly/andrelourenco_digitalcv)
+- 📄 Know about my experiences. Check my [Digital Resume](https://andreclourenco.notion.site/Andr-Louren-o-8b45f98e11bb4e3095b722eec79c8651)
 
-- ⚡ Fun fact **I really have a good vibe 🤙**
+- ⚡ Fun fact: **I really have a good vibe 🤙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
