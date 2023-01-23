@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for a new chapter in my life. **On Front-End Web Development.**
 
-- 👨‍💻 All of my projects will be soon available at www.andrelourenco.pt
-
 - 💬 Ask me about **html, css, graphic design, photography, video... and football**
 
 - 📫 How to reach me **andre.cura.lourenco@gmail.com**
